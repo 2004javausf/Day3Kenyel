@@ -25,7 +25,7 @@ public class Countries {
 		return population;
 				
 	}
-	public void setPopulation() {
+	public void setPopulation(int population) {
 		this.population=population;
 	}
 	

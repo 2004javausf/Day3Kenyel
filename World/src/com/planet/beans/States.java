@@ -25,7 +25,7 @@ public class States {
 		return size;
 				
 	}
-	public void setSize() {
+	public void setSize(int size) {
 		this.size=size;
 	}
 	
