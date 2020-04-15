@@ -5,7 +5,7 @@ public class Countries {
 	private String capital;
 	private int population;
 	
-	public String getName () {
+	public String getName (String name) {
 		return name;
 	}
 	
@@ -13,7 +13,7 @@ public class Countries {
 		this.name=name;
 	}
 	
-	public String getCapital () {
+	public String getCapital (String capital) {
 		return capital;
 	}
 	
