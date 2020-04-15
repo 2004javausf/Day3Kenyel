@@ -5,7 +5,7 @@ public class States {
 	private String nickname;
 	private int size;
 	
-	public String getName (String name) {
+	public String getName () {
 		return name;
 	}
 	
@@ -13,7 +13,7 @@ public class States {
 		this.name=name;
 	}
 	
-	public String getNickname (String nickname) {
+	public String getNickname () {
 		return nickname;
 	}
 	
